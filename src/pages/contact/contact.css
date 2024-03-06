@@ -1,0 +1,30 @@
+
+.register{
+    text-align: center;
+    margin-top: 250px;
+    
+}
+.form-field{
+    margin: 10px;
+    border: 3px black solid;
+    width: 600px;
+    height: 30px;
+    background-color: rgb(198, 195, 195);
+
+}
+.btn-field{
+    width: 400px;
+    height: 30px;
+    margin-top: 25px;
+    border: 3px black solid;
+    background-color: rgb(136, 147, 218);
+
+}
+.btn-field:hover{
+    width: 400px;
+    height: 30px;
+    margin-top: 25px;
+    border: 3px black solid;
+    background-color: rgb(37, 63, 230);
+
+}
